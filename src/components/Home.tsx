@@ -23,8 +23,8 @@ const Home: React.FC = () => {
                 <h3 className="font-medium text-lg mb-1">Información Personal</h3>
                 <p className="text-center text-stone-600">
                   Camilo Mateo Delgado Unda<br />
-                  [Tu carrera]<br />
-                  [Semestre]
+                  Ingeniería Industrial<br />
+                  Sexto semestre
                 </p>
               </div>
               
@@ -34,7 +34,7 @@ const Home: React.FC = () => {
                 </div>
                 <h3 className="font-medium text-lg mb-1">Organización</h3>
                 <p className="text-center text-stone-600">
-                  [Nombre de la organización donde realizaste el servicio]
+                  PAE: Protección Animal Ecuador
                 </p>
               </div>
               
@@ -44,7 +44,7 @@ const Home: React.FC = () => {
                 </div>
                 <h3 className="font-medium text-lg mb-1">Beneficiarios</h3>
                 <p className="text-center text-stone-600">
-                  [Grupo humano beneficiado por tu servicio]
+                  Perros
                 </p>
               </div>
             </div>
