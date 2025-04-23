@@ -22,7 +22,7 @@ const Home: React.FC = () => {
                 </div>
                 <h3 className="font-medium text-lg mb-1">Información Personal</h3>
                 <p className="text-center text-stone-600">
-                  [Tu nombre completo]<br />
+                  Camilo Mateo Delgado Unda<br />
                   [Tu carrera]<br />
                   [Semestre]
                 </p>
