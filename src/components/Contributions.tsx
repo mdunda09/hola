@@ -64,15 +64,14 @@ const Contributions: React.FC = () => {
       Gracias a este trabajo constante, los perros permanecían en un ambiente mucho más saludable, reduciendo el riesgo de infecciones o enfermedades. Además, un lugar limpio generaba una mejor impresión en los visitantes, aumentando las probabilidades de adopción.`
     },
     {
-      title: "Actividad 2",
-      date: "Marzo - Abril 2023",
-      duration: "6 semanas",
-      goals: "Desarrollo comunitario",
-      beneficiaries: "40 personas",
-      description: `Descripción detallada de la segunda actividad específica en la que colaboraste 
-      activamente dentro de la organización. Incluye tu rol, responsabilidades, metodología aplicada, 
-      desafíos enfrentados y resultados obtenidos. Explica también cómo aplicaste tus conocimientos 
-      académicos y qué aprendizajes nuevos adquiriste durante esta experiencia.`
+      title: "Paseo y socialización de los perros",
+      date: "Febrero - Abril 2025",
+      duration: "",
+      goals: "Desarrollo",
+      beneficiaries: "",
+      description: `Mi rol específico consistía en guiar a los perros con cuidado, respetando su ritmo y observando su comportamiento. Algunos eran muy activos y tiraban mucho de la correa, mientras que otros estaban asustados o se resistían a salir. En esos casos, aplicaba paciencia y reforzamiento positivo (caricias, voz calmada) para generar confianza.
+      Además, durante los paseos, también me encargaba de recoger sus necesidades y asegurarme de mantener el control si nos cruzábamos con otros perros.
+      Con el tiempo, noté un cambio en muchos de los perros. Comenzaban a disfrutar el paseo, caminaban mejor con correa y algunos incluso buscaban contacto conmigo, moviendo la cola o pidiendo caricias. Estos avances mejoraban su estado emocional y los preparaban mejor para ser adoptados, ya que sabían convivir en un entorno más cercano a un hogar real.`
     }
   ];
 
@@ -109,11 +108,7 @@ const Contributions: React.FC = () => {
               Impacto General
             </h3>
             <p className="text-stone-700 leading-relaxed">
-              A través de estas actividades, logré contribuir significativamente al bienestar de la comunidad 
-              mientras desarrollaba habilidades profesionales y personales. El impacto de estas intervenciones 
-              se evidenció en [describe los resultados concretos y cambios positivos generados en la comunidad]. 
-              Esta experiencia me permitió entender la importancia de la responsabilidad social y el valor del 
-              trabajo comunitario en el desarrollo sostenible.
+              A través de estas actividades, logré contribuir significativamente al bienestar de la comunidad mientras desarrollaba habilidades profesionales y personales. El impacto de estas intervenciones se evidenció en el ambiente más limpio y seguro que ofrecimos a los perros, así como en su progreso emocional al ganar confianza, mejorar su comportamiento y estar más preparados para ser adoptados. Esta experiencia me permitió entender la importancia de la responsabilidad social y el valor del trabajo comunitario en el desarrollo sostenible. Comprendí que pequeñas acciones, realizadas con constancia y compromiso, pueden generar grandes cambios tanto en los seres que ayudamos como en nosotros mismos.
             </p>
           </div>
         </div>
