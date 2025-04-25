@@ -57,7 +57,7 @@ const Home: React.FC = () => {
               enriquecedora experiencia que ha sido fundamental en mi formación académica y personal.
             </p>
             <p>
-              Mi tiempo en [nombre de la organización] trabajando con [grupo beneficiario] me permitió 
+              Mi tiempo en Protección Animal Ecuador trabajando con perros me permitió 
               desarrollar habilidades importantes mientras contribuía positivamente a la comunidad. 
               En las siguientes secciones, encontrarás detalles sobre mis fortalezas, contribuciones y 
               cómo esta experiencia ha influido en mis objetivos futuros.
