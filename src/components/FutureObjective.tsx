@@ -25,17 +25,20 @@ const FutureObjective: React.FC = () => {
                   <h3 className="text-2xl font-semibold text-stone-800">Mi Objetivo Personal</h3>
                 </div>
                 <div className="bg-emerald-100 text-emerald-700 py-2 px-4 rounded-full text-sm font-medium">
-                  ODS [Número]: [Nombre del Objetivo de Desarrollo Sostenible]
+                  ODS 15: Vida de eco
                 </div>
               </div>
             </div>
             
             <div className="p-6">
               <p className="text-stone-700 leading-relaxed mb-6">
-                [Describe aquí tu objetivo personal de vida basado en tu rol como ciudadano socialmente 
-                responsable. Explica claramente cómo se relaciona con tu experiencia de servicio 
-                comunitario y cómo contribuye al ODS seleccionado. Detalla también por qué este objetivo 
-                es significativo para ti y qué impacto esperas generar al alcanzarlo.]
+                [Mi objetivo personal de vida es fundar o apoyar activamente una red de centros comunitarios de protección animal en distintas provincias del país, que no solo rescaten y rehabiliten a animales en situación de calle, sino que también eduquen a la ciudadanía sobre el cuidado responsable de los animales y el respeto por los ecosistemas.
+                
+                Este objetivo nace directamente de mi experiencia en PAE, donde entendí que ayudar a un perro no solo mejora su vida, sino que transforma también a la comunidad que lo rodea. Vi cómo el compromiso de una organización puede marcar la diferencia en el bienestar animal y en la conciencia colectiva sobre el maltrato y el abandono.
+                
+                Contribuye al ODS 15 porque promueve la protección de especies vulnerables, fomenta prácticas sostenibles de convivencia entre humanos y animales, y fortalece el vínculo entre la sociedad y el entorno natural.
+                
+                Este objetivo es significativo para mí porque creo firmemente que los cambios reales comienzan desde lo local, desde pequeños actos con impacto directo. Espero que, al alcanzarlo, más personas reconozcan que el respeto hacia los animales forma parte de una vida digna y de un planeta más justo para todos los seres vivos.]
               </p>
               
               <div className="border-t border-stone-200 pt-6 mt-6">
