@@ -30,31 +30,31 @@ const Strengths: React.FC = () => {
   // Sample data - replace with actual content
   const personalStrengths = [
     {
-      title: "Fortaleza Personal 1",
-      description: "Descripción detallada de tu primera fortaleza personal y cómo la aplicaste durante tu servicio comunitario."
+      title: "Empatía",
+      description: "Desde el primer día en PAE me di cuenta de que muchos de los perros llegaban con miedo, desconfiaban incluso de una simple caricia. Tener empatía me permitió no solo entender por qué reaccionaban así, sino también saber cómo acercarme sin invadir su espacio. Aprendí a observar, a esperar, y a dar afecto cuando ellos lo pedían. Poco a poco, algunos comenzaron a mover la cola cuando me veían, y eso, aunque parezca mínimo, fue enorme."
     },
     {
-      title: "Fortaleza Personal 2",
-      description: "Descripción detallada de tu segunda fortaleza personal y cómo la aplicaste durante tu servicio comunitario."
+      title: "Compromiso",
+      description: "No todo fue fácil. Hubo días largos, de mucho trabajo físico, y a veces el cansancio se hacía sentir. Pero cada vez que pensaba en lo que esos perros habían pasado, me sentía motivado a seguir. No falté ni una sola vez, y me aseguré de dar lo mejor en cada tarea, desde limpiar los espacios hasta acompañar a los perros en sus paseos. Saber que mi esfuerzo tenía un impacto real fue mi mayor motor."
     },
     {
-      title: "Fortaleza Personal 3",
-      description: "Descripción detallada de tu tercera fortaleza personal y cómo la aplicaste durante tu servicio comunitario."
+      title: "Trabajo en equipo",
+      description: "En el refugio no estaba solo. Trabajé con otros voluntarios y con el equipo de PAE, y ahí descubrí lo importante que es saber escuchar, repartir tareas y ayudarnos entre todos. Muchas veces organizábamos juntos los horarios para las caminatas o colaborábamos en actividades de adopción. Esa coordinación hizo todo más fluido y también me enseñó a valorar el trabajo colectivo."
     }
   ];
   
   const beneficiaryStrengths = [
     {
-      title: "Fortaleza Observada 1",
-      description: "Descripción detallada de la primera fortaleza que observaste en los beneficiarios durante tu servicio."
+      title: "Resiliencia",
+      description: "Los perros me enseñaron mucho más de lo que imaginé. A pesar de sus historias difíciles, muchos de ellos mostraban una increíble capacidad para salir adelante. Algunos llegaban en muy mal estado, física y emocionalmente, pero con tiempo y cuidados, volvían a confiar. Ver cómo recuperaban su alegría fue muy inspirador."
     },
     {
-      title: "Fortaleza Observada 2",
-      description: "Descripción detallada de la segunda fortaleza que observaste en los beneficiarios durante tu servicio."
+      title: "Socialización",
+      description: "Una de las cosas más lindas fue ver cómo iban socializando entre ellos y también con nosotros. Al principio, algunos eran muy retraídos, pero después de varios días ya buscaban compañía, jugaban, y hasta pedían cariño. Esa conexión fue clave para que puedan integrarse mejor al refugio… y también para que puedan encontrar un hogar."
     },
     {
-      title: "Fortaleza Observada 3",
-      description: "Descripción detallada de la tercera fortaleza que observaste en los beneficiarios durante tu servicio."
+      title: "Inteligencia",
+      description: "Muchos perros aprendían rápidamente las rutinas del refugio. Sabían cuándo era hora de comer, cuándo salíamos a caminar, e incluso algunos seguían indicaciones simples. Esa capacidad de adaptación no solo hacía más fácil el día a día en PAE, sino que aumentaba sus chances de ser adoptados."
     }
   ];
 
@@ -122,8 +122,7 @@ const Strengths: React.FC = () => {
                 <p className="text-stone-700 leading-relaxed">
                   La combinación de mis fortalezas personales con las observadas en los beneficiarios 
                   creó una sinergia especial que facilitó enormemente el desarrollo de las actividades.
-                  [Explica detalladamente cómo la combinación de estas fortalezas ayudó al desarrollo 
-                  de las actividades, con ejemplos concretos y reflexiones sobre el impacto generado].
+                  Mi empatía y compromiso encontraron una respuesta en la resiliencia y confianza de los perros. Fue una conexión mutua: yo les ofrecía tiempo y cuidado, y ellos, con sus progresos diarios, me devolvían esperanza. Trabajar en equipo con otros voluntarios y ver cómo los perros se unían al grupo, me hizo sentir parte de algo más grande. Esa mezcla de fortalezas, tanto humanas como animales, hizo que cada actividad tuviera un impacto real.
                 </p>
               </div>
             </div>
