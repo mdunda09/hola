@@ -51,15 +51,17 @@ const Contributions: React.FC = () => {
   // Sample data - replace with actual content
   const contributions = [
     {
-      title: "Actividad 1",
-      date: "Enero - Febrero 2023",
-      duration: "4 semanas",
-      goals: "Educación y capacitación",
-      beneficiaries: "25 personas",
-      description: `Descripción detallada de la primera actividad específica en la que colaboraste 
-      activamente dentro de la organización. Incluye tu rol, responsabilidades, metodología aplicada, 
-      desafíos enfrentados y resultados obtenidos. Explica también cómo aplicaste tus conocimientos 
-      académicos y qué aprendizajes nuevos adquiriste durante esta experiencia.`
+      title: "Limpieza y mantenimiento de la fundación",
+      date: "Febrero - Abril 2025",
+      duration: "",
+      goals: "Mantenimiento",
+      beneficiaries: "",
+      description: `Una de mis principales responsabilidades fue mantener limpios los espacios donde viven los perros. Desde el primer día me asignaron tareas como barrer, recoger excrementos, lavar los comederos y desinfectar los caniles.
+      Mi rol específico era asegurarme de que las áreas estuvieran siempre limpias, tanto por la salud de los animales como por la comodidad de quienes visitaban la fundación (ya sea para adoptar o donar).
+      
+      Durante la jornada, trabajaba con otros voluntarios para dividir los espacios y así limpiar de manera más eficiente. También ayudé a organizar los productos de limpieza y a reponer agua y comida después de cada jornada de desinfección.
+      
+      Gracias a este trabajo constante, los perros permanecían en un ambiente mucho más saludable, reduciendo el riesgo de infecciones o enfermedades. Además, un lugar limpio generaba una mejor impresión en los visitantes, aumentando las probabilidades de adopción.`
     },
     {
       title: "Actividad 2",
