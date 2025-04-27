@@ -104,6 +104,7 @@ const FutureObjective: React.FC = () => {
                             <li>Equipos de voluntarios para riego y cuidado</li>
                             <li>Herramientas básicas de mantenimiento</li>
                             <li>Planillas de seguimiento de crecimiento y estado de los árboles</li>
+                          </ul>
                         </div>
                       </li>
                     </ul>
