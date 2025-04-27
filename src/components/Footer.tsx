@@ -73,7 +73,7 @@ const Footer: React.FC = () => {
             </div>
             
             <div className="text-center text-stone-400 border-t border-stone-700 pt-6">
-              <p>&copy; {currentYear} [Tu Nombre] | E-Portafolio de Servicio Comunitario</p>
+              <p>&copy; {currentYear} Camilo Delgado | E-Portafolio de Servicio Comunitario</p>
             </div>
           </div>
         </div>
