@@ -38,8 +38,8 @@ const Footer: React.FC = () => {
               <div>
                 <h4 className="font-semibold text-lg mb-4">Sobre el Proyecto</h4>
                 <p className="text-stone-400">
-                  Este e-portafolio fue creado para documentar mi experiencia de servicio comunitario
-                  en Ecuador, reflexionar sobre los aprendizajes adquiridos y compartir mis objetivos 
+                  Este e-portafolio fue creado para documentar mi experiencia de servicio comunitario,
+                  reflexionar sobre los aprendizajes adquiridos y compartir mis objetivos 
                   futuros como ciudadano socialmente responsable.
                 </p>
               </div>
@@ -49,15 +49,15 @@ const Footer: React.FC = () => {
                 <div className="space-y-2 text-stone-400">
                   <div className="flex items-center">
                     <Mail className="h-5 w-5 text-emerald-400 mr-2" />
-                    <span>[Tu correo electrónico]</span>
+                    <span>mdelgadou@estud.edu.ec</span>
                   </div>
                   <div className="flex items-center">
                     <Globe className="h-5 w-5 text-emerald-400 mr-2" />
-                    <span>[Tu universidad/institución]</span>
+                    <span>Universidad San Francisco de Quito</span>
                   </div>
                   <div className="flex items-center">
                     <Calendar className="h-5 w-5 text-emerald-400 mr-2" />
-                    <span>[Período del servicio comunitario]</span>
+                    <span>Sexto semestre</span>
                   </div>
                 </div>
               </div>
@@ -65,7 +65,7 @@ const Footer: React.FC = () => {
               <div>
                 <h4 className="font-semibold text-lg mb-4">Agradecimientos</h4>
                 <p className="text-stone-400">
-                  Agradezco a [nombre de la organización] por la oportunidad de realizar mi servicio 
+                  Agradezco a Protección Animal Ecuador por la oportunidad de realizar mi servicio 
                   comunitario, a los beneficiarios por su apertura y enseñanzas, y a mis profesores 
                   y compañeros por su apoyo durante esta experiencia.
                 </p>
