@@ -73,7 +73,7 @@ const FutureObjective: React.FC = () => {
                           <p className="font-medium">Actividad 1: Planificación de las campañas de reforestación</p>
                           <p className="text-sm text-stone-600">Tiempo: 2 meses</p>
                           <p className="text-sm text-stone-600">Recursos:</p>
-                          <ul className="list-disc list-inside text-sm text-stone-600">
+                          <ul className="space-y-3 text-stone-700">
                             <li>Contacto con viveros y autoridades locales</li>
                             <li>Diseño de campañas de sensibilización (Canva, redes sociales)</li>
                             <li>Voluntarios comprometidos</li>
@@ -86,7 +86,7 @@ const FutureObjective: React.FC = () => {
                           <p className="font-medium">Actividad 2: Ejecución de jornadas de siembra comunitaria</p>
                           <p className="text-sm text-stone-600">Tiempo: 4 meses (fase inicial)</p>
                           <p className="text-sm text-stone-600">Recursos:</p>
-                          <ul className="list-disc list-inside text-sm text-stone-600">
+                          <ul className="space-y-3 text-stone-700">
                             <li>Árboles y plantas nativas</li>
                             <li>Herramientas de jardinería (palas, guantes, abono)</li>
                             <li>Logística de transporte y materiales</li>
@@ -100,7 +100,7 @@ const FutureObjective: React.FC = () => {
                           <p className="font-medium">Actividad 3: Seguimiento y mantenimiento de los espacios verdes</p>
                           <p className="text-sm text-stone-600">Tiempo: 6 meses</p>
                           <p className="text-sm text-stone-600">Recursos:</p>
-                          <ul className="list-disc list-inside text-sm text-stone-600">
+                          <ul className="space-y-3 text-stone-700">
                             <li>Equipos de voluntarios para riego y cuidado</li>
                             <li>Herramientas básicas de mantenimiento</li>
                             <li>Planillas de seguimiento de crecimiento y estado de los árboles</li>
