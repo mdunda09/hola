@@ -96,11 +96,21 @@ const FutureObjective: React.FC = () => {
                           <p className="font-medium">Actividad 2: Ejecución de jornadas de siembra comunitaria</p>
                           <p className="text-sm text-stone-600">Tiempo: 4 meses (fase inicial)</p>
                           <p className="text-sm text-stone-600">Recursos:</p>
-                          <ul className="space-y-3 text-stone-700">
-                            <li>Árboles y plantas nativas</li>
-                            <li>Herramientas de jardinería (palas, guantes, abono)</li>
-                            <li>Logística de transporte y materiales</li>
-                            <li>Espacios designados por municipios</li>
+                          <ul className="list-disc list-inside text-sm text-stone-600 mb-3">
+                            <li>Árboles nativos</li>
+                            <li>Palas</li>
+                            <li>Guantes</li>
+                            <li>Abono</li>
+                            <li>Kits de hidratación para voluntarios</li>
+                            <li>Señalización ecológica</li>
+                          </ul>
+                          <p className="text-sm text-stone-600">Pasos a seguir:</p>
+                          <ul className="list-decimal list-inside text-sm text-stone-600">
+                            <li>Organizar a los voluntarios en pequeños grupos con líderes asignados.</li>
+                            <li>Dar una breve capacitación sobre siembra adecuada de árboles y cuidado de las raíces.</li>
+                            <li>Coordinar transporte de árboles y herramientas al sitio de siembra.</li>
+                            <li>Realizar la plantación siguiendo un mapa de ubicación para asegurar la distribución correcta.</li>
+                            <li>Documentar todo el proceso en fotos y videos.</li>
                           </ul>
                         </div>
                       </li>
@@ -110,11 +120,19 @@ const FutureObjective: React.FC = () => {
                           <p className="font-medium">Actividad 3: Seguimiento y mantenimiento de los espacios verdes</p>
                           <p className="text-sm text-stone-600">Tiempo: 6 meses</p>
                           <p className="text-sm text-stone-600">Recursos:</p>
-                          <ul className="space-y-3 text-stone-700">
-                            <li>Equipos de voluntarios para riego y cuidado</li>
-                            <li>Herramientas básicas de mantenimiento</li>
-                            <li>Planillas de seguimiento de crecimiento y estado de los árboles</li>
-                          </ul>
+                            <ul className="list-disc list-inside text-sm text-stone-600 mb-3">
+                              <li>Brigadas de voluntarios</li>
+                              <li>Sistemas de riego improvisados (bidones, mangueras)</li>
+                              <li>Tablas de control de crecimiento</li>
+                            </ul>
+                            <p className="text-sm text-stone-600">Pasos a seguir:</p>
+                            <ul className="list-decimal list-inside text-sm text-stone-600">
+                              <li>Asignar responsables para cada área plantada.</li>
+                              <li>Programar visitas semanales para riego y revisión de los árboles.</li>
+                              <li>Registrar el estado de cada planta (crecimiento, salud, daños).</li>
+                              <li>Reemplazar los árboles que no sobrevivan en las primeras 8 semanas.</li>
+                              <li>Publicar reportes comunitarios de avances para motivar la participación continua.</li>
+                            </ul>
                         </div>
                       </li>
                     </ul>
