@@ -73,10 +73,20 @@ const FutureObjective: React.FC = () => {
                           <p className="font-medium">Actividad 1: Planificación de las campañas de reforestación</p>
                           <p className="text-sm text-stone-600">Tiempo: 2 meses</p>
                           <p className="text-sm text-stone-600">Recursos:</p>
-                          <ul className="space-y-3 text-stone-700">
-                            <li>Contacto con viveros y autoridades locales</li>
-                            <li>Diseño de campañas de sensibilización (Canva, redes sociales)</li>
-                            <li>Voluntarios comprometidos</li>
+                          <ul className="list-disc list-inside text-sm text-stone-600 mb-3">
+                            <li>Computador</li>
+                            <li>Acceso a internet</li>
+                            <li>Contacto con viveros</li>
+                            <li>Permisos municipales</li>
+                            <li>Material gráfico para redes sociales</li>
+                          </ul>
+                          <p className="text-sm text-stone-600">Pasos a seguir:</p>
+                          <ul className="list-decimal list-inside text-sm text-stone-600">
+                            <li>Investigar áreas verdes urbanas que necesiten reforestación.</li>
+                            <li>Solicitar permisos a las autoridades locales (municipio o juntas parroquiales).</li>
+                            <li>Contactar viveros para conseguir árboles nativos adaptados al clima local.</li>
+                            <li>Diseñar material de difusión (afiches digitales, posts para Instagram y Facebook).</li>
+                            <li>Lanzar una convocatoria abierta a voluntarios mediante redes sociales y colegios.</li>
                           </ul>
                         </div>
                       </li>
