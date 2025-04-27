@@ -25,20 +25,20 @@ const FutureObjective: React.FC = () => {
                   <h3 className="text-2xl font-semibold text-stone-800">Mi Objetivo Personal</h3>
                 </div>
                 <div className="bg-emerald-100 text-emerald-700 py-2 px-4 rounded-full text-sm font-medium">
-                  ODS 15: Vida de eco
+                  ODS 15: Vida de ecosistemas terrestres
                 </div>
               </div>
             </div>
             
             <div className="p-6">
               <p className="text-stone-700 leading-relaxed mb-6">
-                [Mi objetivo personal de vida es fundar o apoyar activamente una red de centros comunitarios de protección animal en distintas provincias del país, que no solo rescaten y rehabiliten a animales en situación de calle, sino que también eduquen a la ciudadanía sobre el cuidado responsable de los animales y el respeto por los ecosistemas.
+                Mi objetivo personal de vida es desarrollar proyectos de reforestación y protección de áreas verdes urbanas en distintas ciudades del país, involucrando activamente a la comunidad en el cuidado del medio ambiente.
                 
-                Este objetivo nace directamente de mi experiencia en PAE, donde entendí que ayudar a un perro no solo mejora su vida, sino que transforma también a la comunidad que lo rodea. Vi cómo el compromiso de una organización puede marcar la diferencia en el bienestar animal y en la conciencia colectiva sobre el maltrato y el abandono.
+                Mi experiencia de servicio comunitario me hizo comprender la importancia de actuar a nivel local para promover cambios globales. Aunque en el servicio trabajé directamente con animales, el respeto por todas las formas de vida, incluidos los ecosistemas, es una responsabilidad que quiero asumir como ciudadano socialmente responsable.
                 
-                Contribuye al ODS 15 porque promueve la protección de especies vulnerables, fomenta prácticas sostenibles de convivencia entre humanos y animales, y fortalece el vínculo entre la sociedad y el entorno natural.
+                Este objetivo contribuye al ODS 15: Vida de ecosistemas terrestres, porque busca restaurar espacios naturales, proteger la biodiversidad urbana y fomentar prácticas sostenibles en la convivencia entre seres humanos y la naturaleza.
                 
-                Este objetivo es significativo para mí porque creo firmemente que los cambios reales comienzan desde lo local, desde pequeños actos con impacto directo. Espero que, al alcanzarlo, más personas reconozcan que el respeto hacia los animales forma parte de una vida digna y de un planeta más justo para todos los seres vivos.]
+                Para mí es significativo porque creo que recuperar áreas verdes no solo mejora el entorno físico, sino también la calidad de vida de las personas y el bienestar de futuras generaciones. Al lograrlo, espero crear conciencia sobre la importancia de preservar nuestro planeta en cada acción diaria.
               </p>
               
               <div className="border-t border-stone-200 pt-6 mt-6">
@@ -54,9 +54,10 @@ const FutureObjective: React.FC = () => {
                       Tipo de Evaluación
                     </h5>
                     <p className="text-stone-700">
-                      [Describe el tipo de evaluación que utilizarás para medir el progreso y éxito 
-                      de tu objetivo. Incluye metodología, indicadores, herramientas de medición y 
-                      frecuencia de evaluación.]
+                      Utilizaré una evaluación basada en resultados medibles y percepciones comunitarias.
+                      Mis indicadores principales serán: número de árboles plantados, número de espacios verdes rehabilitados y número de personas participantes en las jornadas ambientales.
+                      Aplicaré encuestas de satisfacción y conocimiento ambiental antes y después de cada intervención, usando formularios digitales y entrevistas.
+                      La frecuencia de evaluación será semestral, con informes de avance y retroalimentación de la comunidad.
                     </p>
                   </div>
                   
@@ -69,22 +70,40 @@ const FutureObjective: React.FC = () => {
                       <li className="flex items-start">
                         <span className="bg-emerald-100 text-emerald-700 w-6 h-6 rounded-full flex items-center justify-center text-xs mr-3 mt-0.5 flex-shrink-0">1</span>
                         <div>
-                          <p className="font-medium">Actividad 1</p>
-                          <p className="text-sm text-stone-600">Tiempo: [duración] • Recursos: [listado de recursos]</p>
+                          <p className="font-medium">Actividad 1: Planificación de las campañas de reforestación</p>
+                          <p className="text-sm text-stone-600">Tiempo: 2 meses</p>
+                          <p className="text-sm text-stone-600">Recursos:</p>
+                          <ul className="list-disc list-inside text-sm text-stone-600">
+                            <li>Contacto con viveros y autoridades locales</li>
+                            <li>Diseño de campañas de sensibilización (Canva, redes sociales)</li>
+                            <li>Voluntarios comprometidos</li>
+                          </ul>
                         </div>
                       </li>
                       <li className="flex items-start">
                         <span className="bg-emerald-100 text-emerald-700 w-6 h-6 rounded-full flex items-center justify-center text-xs mr-3 mt-0.5 flex-shrink-0">2</span>
                         <div>
-                          <p className="font-medium">Actividad 2</p>
-                          <p className="text-sm text-stone-600">Tiempo: [duración] • Recursos: [listado de recursos]</p>
+                          <p className="font-medium">Actividad 2: Ejecución de jornadas de siembra comunitaria</p>
+                          <p className="text-sm text-stone-600">Tiempo: 4 meses (fase inicial)</p>
+                          <p className="text-sm text-stone-600">Recursos:</p>
+                          <ul className="list-disc list-inside text-sm text-stone-600">
+                            <li>Árboles y plantas nativas</li>
+                            <li>Herramientas de jardinería (palas, guantes, abono)</li>
+                            <li>Logística de transporte y materiales</li>
+                            <li>Espacios designados por municipios</li>
+                          </ul>
                         </div>
                       </li>
                       <li className="flex items-start">
                         <span className="bg-emerald-100 text-emerald-700 w-6 h-6 rounded-full flex items-center justify-center text-xs mr-3 mt-0.5 flex-shrink-0">3</span>
                         <div>
-                          <p className="font-medium">Actividad 3</p>
-                          <p className="text-sm text-stone-600">Tiempo: [duración] • Recursos: [listado de recursos]</p>
+                          <p className="font-medium">Actividad 3: Seguimiento y mantenimiento de los espacios verdes</p>
+                          <p className="text-sm text-stone-600">Tiempo: 6 meses</p>
+                          <p className="text-sm text-stone-600">Recursos:</p>
+                          <ul className="list-disc list-inside text-sm text-stone-600">
+                            <li>Equipos de voluntarios para riego y cuidado</li>
+                            <li>Herramientas básicas de mantenimiento</li>
+                            <li>Planillas de seguimiento de crecimiento y estado de los árboles</li>
                         </div>
                       </li>
                     </ul>
