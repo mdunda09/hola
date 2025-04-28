@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Play, ExternalLink } from 'lucide-react';
 
 const VideoReflection: React.FC = () => {
-  const [videoUrl, setVideoUrl] = useState('https://youtu.be/example'); // Replace with actual video URL
+  const [videoUrl, setVideoUrl] = useState('https://youtu.be/JDg0Picgyco'); // Replace with actual video URL
   const [isPlaying, setIsPlaying] = useState(false);
 
   const handlePlayVideo = () => {
